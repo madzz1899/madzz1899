@@ -1,3 +1,9 @@
+Nama : Ahmad Hadi Fauzan
+Nim : 14022300074
+Kelas : 5A-INF
+Mata Kuliah : Pemrograman Mobile II
+
+
 # Toko Permen Flutter
 
 Website toko permen dan manisan dengan tampilan modern dan menarik, dibangun menggunakan Flutter.
